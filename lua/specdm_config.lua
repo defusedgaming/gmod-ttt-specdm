@@ -15,7 +15,7 @@ SpecDM.RespawnTime = 4
 SpecDM.IsScoreboardCustom = false
 
 -- Force all players to join the specdm when they die?
-SpecDM.ForceDeathmatch = false
+SpecDM.ForceDeathmatch = true
 
 -- If SpecDM.ForceDeathmatch is disabled, open a small pop up asking them if they want to join deathmatch?
 SpecDM.PopUp = true
