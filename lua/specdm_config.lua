@@ -18,7 +18,7 @@ SpecDM.IsScoreboardCustom = false
 SpecDM.ForceDeathmatch = false
 
 -- If SpecDM.ForceDeathmatch is disabled, open a small pop up asking them if they want to join deathmatch?
-SpecDM.PopUp = false
+SpecDM.PopUp = true
 
 -- Display a chat message when a player dies to let him know he can deathmatch
 SpecDM.DisplayMessage = true
@@ -27,7 +27,7 @@ SpecDM.DisplayMessage = true
 SpecDM.EnableJoinMessages = true
 
 -- Mute alive players by default when you join the specdm
-SpecDM.MuteAlive = false
+SpecDM.MuteAlive = true
 
 -- F-Key to open the statistics menu
 SpecDM.StatsFKey = KEY_F7
